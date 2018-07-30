@@ -1,0 +1,20 @@
+<dependencies>
+  <packages>
+    <package>com.android.support:customtabs:[26.0.0, 27.2.0)</package>
+    <package>com.android.support:support-v4:[26.0.0, 27.2.0)</package>
+    <package>com.google.android.gms:play-services-base:[10.2.1, 12.1.0)</package>
+    <package>com.google.android.gms:play-services-location:[10.2.1, 12.1.0)</package>
+    <package>com.google.firebase:firebase-messaging:[10.2.1, 12.1.0)</package>
+  </packages>
+  <files>
+    <file>Assets/Plugins/Android/com.android.support.support-annotations-24.0.0.jar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-v4-24.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.gms.play-services-base-10.2.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.gms.play-services-basement-10.2.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.gms.play-services-location-10.2.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.gms.play-services-tasks-10.2.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-common-10.2.1</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-iid-10.2.1</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-messaging-10.2.1.aar</file>
+  </files>
+</dependencies>
